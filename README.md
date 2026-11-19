@@ -289,6 +289,7 @@ By Use Case
 
 - [Stacking Credits Guide](./guides/stacking-credits.md) - How to combine programs for maximum value
 - [Application Tips](./guides/application-tips.md) - Best practices for getting approved
+- [How to get free AWS credits: a complete guide (Clowdey)](https://clowdey.ai/blog/free-aws-credits/) - Guide to AWS Free Tier, Activate Founders/Portfolio, student, research and nonprofit credits, with eligibility and rules that void credits
 
 ---
 
